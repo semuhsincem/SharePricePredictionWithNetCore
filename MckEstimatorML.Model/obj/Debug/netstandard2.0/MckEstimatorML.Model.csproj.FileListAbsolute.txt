@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\MckEstimator\MckEstimatorML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\ASUS\source\repos\MckEstimator\MckEstimatorML.Model\bin\Debug\netstandard2.0\MckEstimatorML.Model.deps.json
+C:\Users\ASUS\source\repos\MckEstimator\MckEstimatorML.Model\bin\Debug\netstandard2.0\MckEstimatorML.Model.dll
+C:\Users\ASUS\source\repos\MckEstimator\MckEstimatorML.Model\bin\Debug\netstandard2.0\MckEstimatorML.Model.pdb
+C:\Users\ASUS\source\repos\MckEstimator\MckEstimatorML.Model\obj\Debug\netstandard2.0\MckEstimatorML.Model.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\MckEstimator\MckEstimatorML.Model\obj\Debug\netstandard2.0\MckEstimatorML.Model.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MckEstimator\MckEstimatorML.Model\obj\Debug\netstandard2.0\MckEstimatorML.Model.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MckEstimator\MckEstimatorML.Model\obj\Debug\netstandard2.0\MckEstimatorML.Model.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MckEstimator\MckEstimatorML.Model\obj\Debug\netstandard2.0\MckEstimatorML.Model.dll
+C:\Users\ASUS\source\repos\MckEstimator\MckEstimatorML.Model\obj\Debug\netstandard2.0\MckEstimatorML.Model.pdb
